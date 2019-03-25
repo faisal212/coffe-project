@@ -7,11 +7,13 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gatsby": "^2.1.31",
+    "gatsby-background-image": "^0.2.73",
     "gatsby-image": "^2.0.33",
     "gatsby-plugin-manifest": "^2.0.24",
     "gatsby-plugin-offline": "^2.0.25",
     "gatsby-plugin-react-helmet": "^3.0.9",
     "gatsby-plugin-sharp": "^2.0.28",
+    "gatsby-source-contentful": "^2.0.42",
     "gatsby-source-filesystem": "^2.0.24",
     "gatsby-transformer-sharp": "^2.1.17",
     "prop-types": "^15.7.2",
