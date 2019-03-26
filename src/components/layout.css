@@ -7,6 +7,7 @@
 }
 
 body {
+    font-weight: 500;
     background: var(--mainWhite);
     color: var(--mainDark);
     font-family: Verdana, Geneva, Tahoma, sans-serif !important;
@@ -62,4 +63,8 @@ h1,h2,h3,h4,h5,h6{
 }
 .footer {
     background: var(--mainDark);
+}
+
+.menu,.contact {
+    background: var(--mainGrey);
 }
